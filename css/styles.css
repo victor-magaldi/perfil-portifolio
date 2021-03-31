@@ -5777,6 +5777,11 @@ a.close.disabled {
   width: auto;
   height: 250px;
 }
+@media(max-width:767px){
+  .modal.show .modal-dialog img.img-fluid{
+    height: auto;
+  }
+}
 .modal.modal-static .modal-dialog {
   transform: scale(1.02);
 }
