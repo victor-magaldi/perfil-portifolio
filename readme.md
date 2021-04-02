@@ -1,3 +1,3 @@
-#Portifólio
-desenvolvi para mostrar um pouco mais do meu trabalho e sobre minhas experiências como Programdor.
-# perfil-portifolio
+# Sobre
+
+Este repositório oi desenvolvido para apresentar um pouco mais sobre meu perfil profissional, os projetos que desenvolvi e sobre o que estou estudando atualmente.
